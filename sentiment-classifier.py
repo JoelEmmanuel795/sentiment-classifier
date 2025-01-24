@@ -15,12 +15,12 @@ def strip_punctuation(word_str):
         word_str = word_str.replace(punc_str, "").strip()
     return word_str
 
-# Test strip_punctuation function
+# Test strip_punctuation function 
 word = "hello;: !"
 new2 = strip_punctuation(word)
 print(new2)
 
-# List of positive words to use
+# List of positive words to use 
 positive_words = []
 with open("assets/positive_words.txt") as pos_f:
     for lin in pos_f:
