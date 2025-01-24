@@ -1,6 +1,6 @@
 # Sentiment Classifier for Twitter Data
 
-This project processes Twitter data to classify tweets based on sentiment. Using Python, it calculates **positive**, **negative**, and **net scores** for each tweet based on predefined word lists. The script then outputs a CSV file with these scores, along with the number of retweets and replies for each tweet.
+This project processes Twitter data to classify tweets based on sentiment. Using Python, it calculates **positive**, **negative**, and **net scores** for each tweet based on predefined word lists. The script then outputs a CSV file with these scores, along with the number of retweets and replies for each tweet. 
 
 ## Key Features
 
