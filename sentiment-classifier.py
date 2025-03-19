@@ -1,7 +1,7 @@
-import csv 
+import csv
 
-# List of punctuation characters to be removed from words 
-punctuation_chars = ["'", '"', ",", ".", "!", ":", ";", '#', '@'] 
+# List of punctuation characters to be removed from words
+punctuation_chars = ["'", '"', ",", ".", "!", ":", ";", '#', '@']
 
 def strip_punctuation(word_str):
     """
